@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Sou atualmente um estudante do segundo ano do curso de informática, <br><br>- Possuo atualmente conhecimento semi-fluente em 3 idiomas<br><br>- 📚 Estou aprendendo  Linguagens e elaboração de sistemas de nível intermediário a médio durante o período letivo.<br><br>- ⚡ No meu tempo livre eu jogo  jogos competivos, além de me aperfeiçoar aplicando meu conhecimento atual na criação de um sites e aplicativo.</p>
+<p align="left">Sou atualmente um estudante do segundo ano do curso de informática. Moro em Açailândia e adoro jogos competitivos, de exploração e MMO rpgs. Curto animes e séries, desde Pokémon, Jujutsu Kaisen, ou Brooklyn 99. Também sou bastante participativo, interativo e conversativo. <br><br>- Possuo atualmente conhecimento fluente em 2 idiomas, Inglês & Português. Busco a fluência em Espanhol e não pretendo parar por aí. <br><br>- 📚 Estou aprendendo  Linguagens e elaboração de sistemas de nível intermediário a médio durante o período letivo.<br><br>- ⚡ No meu tempo livre eu jogo  jogos competivos, além de me aperfeiçoar aplicando meu conhecimento atual na criação de um sites e aplicativo.</p>
 
 ###
 
