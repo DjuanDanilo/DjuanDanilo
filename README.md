@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">Redes sociais</p>
+<h3 align="left">Redes sociais</h3>
 
 ###
 
